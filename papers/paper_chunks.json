@@ -1,0 +1,178 @@
+[
+  {
+    "id": "Unknown_2024_IJRTI_p1_c0",
+    "text": "\u00a9 202 3 IJRTI | Volume 8, Issue 4 | ISSN: 2456 -3315  \n  \nIJRTI230406 1 International Journal for Research Trends and Innovation ( www.ijrti.org ) 356 \n RESEARCH PAPER ON ARTIFICIAL INTELLIGENCE & \nITS APPLICATIONS  \n \n \nProf. Neha Saini  \n \nAssistant Professor in Department of Computer Science & IT  \nSDAM College Dinanagar  \n \nABSTRACT - \n \nIt is the science and engineering of making intelligent machines, especially intelligent computer programs. It is related to \nthe similar task of using computers to understand human intelligence, but AI does not have to confine itself to methods that \nare biologically observable. While no consensual definition of Artificial Intelligence (AI) exists, AI is broadly characteriz ed \nas the study of computa tions that allow for perception, reason and action.  Today, the amount of data that is generated, by \nboth humans and machines, far outpaces humans\u2019 ability to absorb, interpret, and make complex decisions based on that data. \nArtificial intelligence forms th e basis for all computer learning and is the future of all complex decision making.  This paper \nexamines features of artificial Intelligence, introduction, definitions of AI, history, applications, growth and achievements .",
+    "metadata": {
+      "source": "IJRTI2304061.pdf",
+      "author": "Unknown",
+      "title": "IJRTI2304061",
+      "year": "2024",
+      "page": "1"
+    }
+  },
+  {
+    "id": "Unknown_2024_IJRTI_p1_c1",
+    "text": "learning and is the future of all complex decision making.  This paper \nexamines features of artificial Intelligence, introduction, definitions of AI, history, applications, growth and achievements . \n \nKEYWORDS - machi ne learning,deep learning, neural networks ,Natural Language Processing and  Knowledge Base System         \n \n            INTRODUCTION - \n \nArtificial Intelligence ( AI ) is the branch of computer science which deals with intelligence of machines where an intelligent agent \nis a system that takes actions which maximize its chances of success. It is the study of ideas which enable computers to do t he things \nthat make people seem intelligent. The central principles of AI include such as reasoning, knowledge, p lanning, learning, \ncommunication, perception and the ability to move and manipulate objects. It is the science and engineering of making intelli gent \nmachines, especially intellig ent computer programs  \n \nARTIFICIAL INTELLIGENCE METHODS:  \nMachine Learning - \nIt is one of the applications of AI where machines are not explicitly programmed to perform certain tasks; rather, they learn  and \nimprove from experience automatically. Deep Learning is a subset of machine learning based on artificial neural netw orks for \npredictive analysis. There are various machine learning algorithms, such as Unsupervised Learning, Supervised Learning, and \nReinforcement Learning.",
+    "metadata": {
+      "source": "IJRTI2304061.pdf",
+      "author": "Unknown",
+      "title": "IJRTI2304061",
+      "year": "2024",
+      "page": "1"
+    }
+  },
+  {
+    "id": "Unknown_2024_IJRTI_p1_c2",
+    "text": "learning based on artificial neural netw orks for \npredictive analysis. There are various machine learning algorithms, such as Unsupervised Learning, Supervised Learning, and \nReinforcement Learning. In Unsupervised Learning, the algorithm does not use classified information to act on it without an y \nguidance. In Supervised Learning, it deduces a function from the training data, which consists of a set of an input object an d the \ndesired output. Reinforcement learning is used by machines to take suitable actions to increase the reward to find the best  possibility \nwhich should be taken in to account.  \nNatural Language Processing(NLP)  \nIt is the interactions between computers and human language where the computers are programmed to process natural languages. \nMachine Learning is a reliable technology for Na tural Language Processing to obtain meaning from human languages. In NLP, the \naudio of a human talk is captured by the machine. Then the audio to text conversation occurs, and then the text is processed where \nthe data is converted into audio. Then the mach ine uses the audio to respond to humans. Applications of  Natural Language \nProcessing  can be found in IVR (Interactive Voice Response) applications used in call centres, language translation applications \nlike Google Translate and word processors such as Microsoft Word to check the accuracy of grammar in text.",
+    "metadata": {
+      "source": "IJRTI2304061.pdf",
+      "author": "Unknown",
+      "title": "IJRTI2304061",
+      "year": "2024",
+      "page": "1"
+    }
+  },
+  {
+    "id": "Unknown_2024_IJRTI_p1_c3",
+    "text": "ractive Voice Response) applications used in call centres, language translation applications \nlike Google Translate and word processors such as Microsoft Word to check the accuracy of grammar in text. However, the natur e \nof human languages makes the Natural Language Processing difficult becaus e of the rules which are involved in the passing of \ninformation using natural language, and they are not easy for the computers to understand. So NLP uses algorithms to recogniz e \nand abstract the rules of the natural languages where the unstructured data f rom the human languages can be converted to a format \nthat is understood by the computer.  \nAutomation & Robotics - \nThe purpose of Automation is to get the monotonous and repetitive tasks done by machines which also improve productivity and \nin receiving cost -effective and more efficient results. Many organizations use machine learning,  neural networks , and graphs in",
+    "metadata": {
+      "source": "IJRTI2304061.pdf",
+      "author": "Unknown",
+      "title": "IJRTI2304061",
+      "year": "2024",
+      "page": "1"
+    }
+  },
+  {
+    "id": "Unknown_2024_IJRTI_p2_c0",
+    "text": "\u00a9 202 3 IJRTI | Volume 8, Issue 4 | ISSN: 2456 -3315  \n  \nIJRTI230406 1 International Journal for Research Trends and Innovation ( www.ijrti.org ) 357 \n automation. Such automation can prevent fraud iss ues while financial transactions online by using CAPTCHA technology. Robotic \nprocess automation is programmed to perform high volume repetitive tasks which can adapt to the change in different circumsta nces.  \nMachine Vision - \nMachines can capture visual info rmation and then analyze it. Here cameras are used to capture the visual information, the analogue \nto digital conversion is used to convert the image to digital data, and digital signal processing is employed to process the data. Then \nthe resulting data is  fed to a computer. In machine vision, two vital aspects are sensitivity, which is the ability of the machine to \nperceive impulses that are weak and resolution, the range to which the machine can distinguish the objects. The usage of mach ine \nvision can be found in signature identification,  pattern recognition , and medical image analysis, etc.  \nKnowledge -Based Systems(K BS):  \nA KBS can be defined as a computer system capable of giving advice in a particular domain, utilizing knowledge provided by a \nhuman expert.",
+    "metadata": {
+      "source": "IJRTI2304061.pdf",
+      "author": "Unknown",
+      "title": "IJRTI2304061",
+      "year": "2024",
+      "page": "2"
+    }
+  },
+  {
+    "id": "Unknown_2024_IJRTI_p2_c1",
+    "text": "cal image analysis, etc.  \nKnowledge -Based Systems(K BS):  \nA KBS can be defined as a computer system capable of giving advice in a particular domain, utilizing knowledge provided by a \nhuman expert. A distinguishing feature of KBS lies in the separation behind the knowledge, which can be represented in a numb er \nof ways such as rules, frames, or case s, and the inference engine or algorithm which uses the knowledge base to arr ive at a \nconclusion.  \nNeural Networks:  \n \nNNs are biologically inspired systems consisting of a massively connected network of computational \u201cneurons,\u201d organized in lay ers. \nBy adjust ing the weights of the network, NNs can be \u201ctrained\u201d to approximate virtually any nonlinear function to a required degree \nof accuracy. NNs typically are provided with a set of input and output exemplars. A learning algorithm (such as back propagat ion) \nwoul d then be used to adjust the weights in the network so that the network would give the desired output, in a type of learning \ncommonly called  supervised learning.  \nApplica tions of AI  \nArtificial Intelligence has various applications in today's society. It is becoming essential for today's time because it can solve \ncomplex problems with an efficient way in multiple industries, such as Healthcare, entertainment, finance, education, etc. AI  is \nmaking our daily life more comfortable and fast.  \nFollow ing are some sectors which have the application of Artificial Intelligence:",
+    "metadata": {
+      "source": "IJRTI2304061.pdf",
+      "author": "Unknown",
+      "title": "IJRTI2304061",
+      "year": "2024",
+      "page": "2"
+    }
+  },
+  {
+    "id": "Unknown_2024_IJRTI_p2_c2",
+    "text": "finance, education, etc. AI  is \nmaking our daily life more comfortable and fast.  \nFollow ing are some sectors which have the application of Artificial Intelligence:",
+    "metadata": {
+      "source": "IJRTI2304061.pdf",
+      "author": "Unknown",
+      "title": "IJRTI2304061",
+      "year": "2024",
+      "page": "2"
+    }
+  },
+  {
+    "id": "Unknown_2024_IJRTI_p3_c0",
+    "text": "\u00a9 202 3 IJRTI | Volume 8, Issue 4 | ISSN: 2456 -3315  \n  \nIJRTI230406 1 International Journal for Research Trends and Innovation ( www.ijrti.org ) 358 \n 1. AI in Astronomy  \no Artificial Intelligence can be very useful to solve complex universe problems. AI technology can be helpful for \nunderstanding the universe such as how it works, origin, etc.  \n2. AI in Healthcare  \no In the last, five to ten years, AI becoming more advantageous for the healthcare industry and going to have a significant \nimpact on this industry.  \no Healthcare Industries are applying AI to make a better and faster dia gnosis than humans. AI can help doctors with \ndiagnoses and can inform when patients are worsening so that medical help can reach to the patient before hospitalization.  \n3. AI in Gaming  \no AI can be used for gaming purpose. The AI machines can play strategic games like chess, where the machine needs to \nthink of a large number of possible places.  \n4. AI in Finance  \no AI and finance industries are the best matches for each other. The finance industry is implementing automation, chatbot, \nadaptive intelligen ce, algorithm trading, and machine learning into financial processes.  \n5. AI in Data Security  \no The security of data is crucial for every company and cyber -attacks are growing very rapidly in the digital world. AI can \nbe used to make your data more safe and s ecure.",
+    "metadata": {
+      "source": "IJRTI2304061.pdf",
+      "author": "Unknown",
+      "title": "IJRTI2304061",
+      "year": "2024",
+      "page": "3"
+    }
+  },
+  {
+    "id": "Unknown_2024_IJRTI_p3_c1",
+    "text": "5. AI in Data Security  \no The security of data is crucial for every company and cyber -attacks are growing very rapidly in the digital world. AI can \nbe used to make your data more safe and s ecure. Some examples such as AEG bot, AI2 Platform,are used to determine \nsoftware bug and cyber -attacks in a better way.  \n6. AI in Social Media  \no Social Media sites such as Facebook, Twitter, and Snapchat contain billions of user profiles, which need to be st ored and \nmanaged in a very efficient way. AI can organize and manage massive amounts of data. AI can analyze lots of data to \nidentify the latest trends, hashtag, and requirement of different users.  \n7. AI in Travel & Transport  \no AI is becoming highly demandin g for travel industries. AI is capable of doing various travel related works such as from \nmaking travel arrangement to suggesting the hotels, flights, and best routes to the customers. Travel industries are using \nAI-powered chatbots which can make human -like interaction with customers for better and fast response.  \n8. AI in Automotive Industry  \no Some Automotive industries are using AI to provide virtual assistant to their user for better performance. Such as Tesla \nhas introduced TeslaBot, an intelligent virtual assistant.  \no Various Industries are currently working for developing self -driven cars which can make your journey more safe and \nsecure.  \n9. AI in Robotics:  \no Artificial Intelligence has a remarkable role in Robotics.",
+    "metadata": {
+      "source": "IJRTI2304061.pdf",
+      "author": "Unknown",
+      "title": "IJRTI2304061",
+      "year": "2024",
+      "page": "3"
+    }
+  },
+  {
+    "id": "Unknown_2024_IJRTI_p3_c2",
+    "text": "Industries are currently working for developing self -driven cars which can make your journey more safe and \nsecure.  \n9. AI in Robotics:  \no Artificial Intelligence has a remarkable role in Robotics. Usually, general robots are programmed such that they can \nperform some repetitive task, but with the help of AI, we can create intelligent robots which can perform tasks with their \nown experiences without pre -programmed.  \no Humanoid Robots are best examples for AI in robotics, recen tly the intelligent Humanoid robot named as Erica and Sophia \nhas been developed which can talk and behave like humans.  \n \n10. AI in Entertainment",
+    "metadata": {
+      "source": "IJRTI2304061.pdf",
+      "author": "Unknown",
+      "title": "IJRTI2304061",
+      "year": "2024",
+      "page": "3"
+    }
+  },
+  {
+    "id": "Unknown_2024_IJRTI_p4_c0",
+    "text": "\u00a9 202 3 IJRTI | Volume 8, Issue 4 | ISSN: 2456 -3315  \n  \nIJRTI230406 1 International Journal for Research Trends and Innovation ( www.ijrti.org ) 359 \n 11. AI in Agriculture  \no Agriculture is an area which requires various resources, labor, money, and time for best result. Now a day's agriculture is \nbecoming digital, and AI is emerging in this field. Agriculture is applying AI as agriculture robotics, solid and crop \nmonitoring, predictive analysis. AI in agriculture can be very helpful for farmers.  \n12. AI in E -commerce  \no AI is providing a competitive edge to the e -commerce industry, and it is becoming more demanding in the e -commerce \nbusiness. AI is helping shoppers to discover associated products with recommended size, color, or even brand.  \n13. AI in education:  \no AI can automate grading so that the tutor can have more time to teach. AI chatbot can communicate with students as a \nteaching assistant.  \no AI in the future can be work as a personal virtual tutor for students, which will be accessible easily at any time and any \nplace.  \nSOME OTHER APPLICATIONS : \n \n1. Fraud detection.  The financial services industry uses artificial intelligence in two ways. Initial scoring of applications for \ncredit uses AI to understand creditworthiness. More advanced AI engines are employed to monitor and detect fraudulent \npayment card transactions in real time.  \n2. Virtual customer assistance (VCA).",
+    "metadata": {
+      "source": "IJRTI2304061.pdf",
+      "author": "Unknown",
+      "title": "IJRTI2304061",
+      "year": "2024",
+      "page": "4"
+    }
+  },
+  {
+    "id": "Unknown_2024_IJRTI_p4_c1",
+    "text": "credit uses AI to understand creditworthiness. More advanced AI engines are employed to monitor and detect fraudulent \npayment card transactions in real time.  \n2. Virtual customer assistance (VCA).  Call centers use VCA to predict and respond to customer inquiries outside of human \ninteraction. Voice recognition, coupled with simulated human dialog, is the firs t point of interaction in a customer service \ninquiry. Higher -level inquiries are redirected to a human.  \n3. Medicine:  A medical clinic can use AI systems to organize bed schedules, make a staff rotation, and provide medical \ninformation. AI has also application  in fields of cardiology (CRG), neurology (MRI), embryology (sonography), complex \noperations of internal organs etc.  \n4. Heavy Industries :  Huge machines involve risk in their manual maintenance and working. So in becomes necessary part to \nhave an efficient and safe operation agent in their operation.  \n5. Telecommunications:  Many telecommunications companies make use of heuristic search in the management of their \nworkforcesfor example BT Group has deployed heuristic search in a scheduling application that provides the work schedules \nof 20000 engineers.  \n6. Music:  Scientists are t rying to make the computer emulate the activities of the skillful musician. Composition, performance, \nmusic theory, sound processing are some of the major areas on which research in Music and Artificial Intelligence are \nfocusing on.",
+    "metadata": {
+      "source": "IJRTI2304061.pdf",
+      "author": "Unknown",
+      "title": "IJRTI2304061",
+      "year": "2024",
+      "page": "4"
+    }
+  },
+  {
+    "id": "Unknown_2024_IJRTI_p4_c2",
+    "text": "the activities of the skillful musician. Composition, performance, \nmusic theory, sound processing are some of the major areas on which research in Music and Artificial Intelligence are \nfocusing on. Eg:chucks, Orchextra, s martmusic etc.  \n7. Antivirus:  Artificial intelligence (AI) techniques have played increasingly important role in antivirus detection. At present, \nsome principal artificial intelligence techniques applied in antivirus detection It improves the performance of an tivirus \ndetection systems, and promotes the production of new artificial intelligence algorithm and the application in antivirus \ndetection to integrate antivirus detection with artificial intelligence.  \n \nFuture of AI  \n \nLooking at the features and its wide application we may definitely stick to artificial intelligence. Seeing at the development \nof AI, is it that the future world is becoming artificial. Biological intelligence is fixed, because it is an old, mature par adigm, \nbut the new paradigm of non -biological computation and intelligence is growing exponentially. The memory capacity of the \nhuman brain is probably of the order of ten thousand million binary digits. But most of this is probably used in remembering \nvisual impressions, and other comparati vely wasteful ways . Hence we can say that as natural intelligence is limited and \nvolatile too world may now depend upon computers for smooth working.",
+    "metadata": {
+      "source": "IJRTI2304061.pdf",
+      "author": "Unknown",
+      "title": "IJRTI2304061",
+      "year": "2024",
+      "page": "4"
+    }
+  },
+  {
+    "id": "Unknown_2024_IJRTI_p4_c3",
+    "text": "mbering \nvisual impressions, and other comparati vely wasteful ways . Hence we can say that as natural intelligence is limited and \nvolatile too world may now depend upon computers for smooth working. A rtificial intelligence (AI) is truly a revolutionary \nfeat of computer science, set to become a core comp onent of all modern software over the coming years and decades. This \npresents a threat but also an opportunity. AI will be deployed to augment both defensive and offensive cyber operations. \nAdditionally, new means of cyber attack will be invented to take a dvantage of the particular weaknesses of AI technology. \nFinally, the importance of data will be amplified by AI\u2019s appetite for large amounts of training data, redefining how we must  \nthink about data protection. Prudent governance at the global level will b e essential to ensure that this era -defining \ntechnology will bring about broadly shared safety and prosperity.  \n \n \n \n \n \nNetApp and artificial intelligence",
+    "metadata": {
+      "source": "IJRTI2304061.pdf",
+      "author": "Unknown",
+      "title": "IJRTI2304061",
+      "year": "2024",
+      "page": "4"
+    }
+  },
+  {
+    "id": "Unknown_2024_IJRTI_p5_c0",
+    "text": "\u00a9 202 3 IJRTI | Volume 8, Issue 4 | ISSN: 2456 -3315  \n  \nIJRTI230406 1 International Journal for Research Trends and Innovation ( www.ijrti.org ) 360 \n  \nAs the data authority for hybrid cloud, NetApp understands the value of the access, management, and control of data. The  NetApp \ndata fabric  provides a unified data management environment that spans across edge devices, data centers, and  multiple hyperscale \nclouds. The data fabric gives organizations of all sizes the ability to accelerate critical applications, gain data visibilit y, streamline \ndata protection, and increase operational agility.  \nNetApp AI solutions are based on the followin g key building blocks:  \n\u2022 ONTAP software  enables AI and deep learning both on premises and in the hybrid cloud.  \n\u2022 AFF all -flash systems  accelerate AI and deep learning workloads and remove performance bottlenecks.  \n\u2022 ONTAP Select software  enables efficient data collection at the edge, using IoT devices and aggregations points.  \n\u2022 Cloud Volumes  can be used to rapidly prototype new projects and provide the ability to move  AI data  to and from \nthe cloud.  \n \nConclusion  \n \nTill now we have discussed in brief about Artificial Intelligence. We have discussed some of its principles, its applications, its \nachievements etc .The ultimate goal of institutions and scientists working on AI is to solve majority of the problems or to achieve \nthe tasks which we humans directly c an\u2019t accomplish.",
+    "metadata": {
+      "source": "IJRTI2304061.pdf",
+      "author": "Unknown",
+      "title": "IJRTI2304061",
+      "year": "2024",
+      "page": "5"
+    }
+  },
+  {
+    "id": "Unknown_2024_IJRTI_p5_c1",
+    "text": "cations, its \nachievements etc .The ultimate goal of institutions and scientists working on AI is to solve majority of the problems or to achieve \nthe tasks which we humans directly c an\u2019t accomplish. It is for sure that development in this field of computer science will change \nthe complete scenario of the world Now it is the responsibility of creamy layer of engineers to develop this field.  \n \nReferences  \n \n1. http://en.wikibooks.org/wiki/Computer_Science:Artificial_Intelligence \nhttp://www.howstuffworks.com/arificialintelligence  \n2. http:// www.google.co.in  \n3. http://www.library.thinkquest.org  \n4. https://www.javat point.com/application -of-ai \n5. https://www.educba.com/artificial -intelligence -techniques/  \n6. https://www.cigionline.orgw/articles/cyber -security -\nbattlefield/?utm_source=google_ads&utm_medium=grant&gclid=EAIaIQobChMIsdz9qLSF_AIVzQ0rCh1bNQylEAA\nYAiAAEgI40_D_BwE",
+    "metadata": {
+      "source": "IJRTI2304061.pdf",
+      "author": "Unknown",
+      "title": "IJRTI2304061",
+      "year": "2024",
+      "page": "5"
+    }
+  }
+]
