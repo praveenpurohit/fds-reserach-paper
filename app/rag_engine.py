@@ -320,6 +320,17 @@ class RAGEngine:
 
         return answer, retrieved
 
+    def _ensure_collection(self):
+        """Recreate collection if the persisted one was deleted or is stale."""
+        try:
+            self.collection.count()
+        except Exception:
+            self.collection = self.chroma_client.get_or_create_collection(
+                name=CHROMA_COLLECTION_NAME,
+                embedding_function=self.embedding_fn,
+                metadata={"description": "Academic paper chunks"},
+            )
+
     def get_stats(self) -> Dict:
         """Get statistics about the indexed corpus."""
         if self.use_claude_code:
@@ -329,6 +340,7 @@ class RAGEngine:
         else:
             llm = f"Ollama ({OLLAMA_MODEL})"
 
+        self._ensure_collection()
         return {
             "total_chunks": self.collection.count(),
             "total_concepts": len(self.concepts.get("concepts", {})),

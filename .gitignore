@@ -1,0 +1,109 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+eggs/
+*.whl
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# ========================
+# Environment & Secrets
+# ========================
+.env
+.env.*
+!.env.example
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# ========================
+# OS generated files
+# ========================
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ========================
+# Temporary / scratch files
+# ========================
+tmp/
+temp/
+*.tmp
+*.bak
+*.log
+
+# ========================
+# Data & vector store artifacts
+# ========================
+data/vectors/
+*.sqlite3
+
+# ========================
+# Uploaded files & papers (runtime)
+# ========================
+backend/uploads/
+papers/*.pdf
+papers/*.json
+!papers/.gitkeep
+
+# ========================
+# Extractions output (runtime)
+# ========================
+extractions/*
+!extractions/.gitkeep
+
+# ========================
+# Docker / containers
+# ========================
+*.pid
+
+# ========================
+# Jupyter Notebooks checkpoints
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# Testing / Coverage
+# ========================
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# ========================
+# Distribution / packaging
+# ========================
+*.manifest
+*.spec
